@@ -54,6 +54,7 @@ void find_place(Computer_Store *Store_1, int n)
         }
     }
 }
+//this is main function.
 int main()
 {
     Computer_Store Store_1[100];
